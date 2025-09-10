@@ -20,6 +20,9 @@
   "homepage": "https://github.com/anyathegreat/3DGlo-#readme",
   "description": "",
   "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "eslint": "^9.35.0",
+    "globals": "^16.3.0",
     "webpack": "^5.58.1",
     "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^4.6.0"
